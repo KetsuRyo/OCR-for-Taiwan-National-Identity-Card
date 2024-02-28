@@ -1,0 +1,1 @@
+# OCR-for-Taiwan-National-Identity-Card
