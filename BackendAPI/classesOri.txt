@@ -1,0 +1,16 @@
+CName
+EName
+YB
+MB
+DB
+SEX
+AUTH
+ID
+YI
+MI
+DI
+YE
+ME
+DE
+Photo
+Sig
