@@ -57,9 +57,21 @@ python 20240226Flask.py
 
 ### 5. 設定前端
 
-進入`SimpleFrontend`目錄，打開`script.js`文件，將其中的`http://host:port/IDCard_Detection/predict` (line 7)替換為您的Flask服務的主機地址和端口。
+進入`SimpleFrontend`目錄
+打開`public/script.js`文件，將其中的`http://host:port/IDCard_Detection/predict` (line 7)替換為您的Flask服務的主機地址和端口。
+執行
+```bash
+npm install
+```
 
 ### 6. 啟動前端
 
-最後，打開`index.html`文件以啟動前端應用。
+最後，執行
+```bash
+node server.js
+```
+以啟動前端應用。
+
+### 7. DEMO 影片
+
 
