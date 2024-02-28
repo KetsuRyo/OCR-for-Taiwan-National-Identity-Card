@@ -74,5 +74,5 @@ node server.js
 
 ### 7. DEMO 影片
 
-[![DEMO 影片](http://img.youtube.com/vi/6K2WN1vRqLs/0.jpg)](http://www.youtube.com/watch?v=6K2WN1vRqLs "DEMO 影片")
+[![DEMO 影片](http://img.youtube.com/vi/6K2WN1vRqLs/1.jpg)](http://www.youtube.com/watch?v=6K2WN1vRqLs "DEMO 影片")
 
